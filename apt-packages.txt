@@ -1,0 +1,13 @@
+htop
+ncdu
+net-tools
+curl
+wget
+jq
+tree
+fontconfig
+git
+ufw
+vim
+zsh
+tmux
